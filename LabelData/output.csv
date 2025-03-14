@@ -1,0 +1,786 @@
+Mã KH,Khách hàng,is_tnhh,is_cp,is_dntn,is_cn,is_vpdd,is_hkd,is_khac,Phân loại
+KH-0001,công ty trách nhiệm hữu hạn đầu tư phát triển công nghệ bách khoa,1,0,0,0,0,0,0,TNHH
+KH-0002,công ty cổ phần phát triển kỹ thuật và thương mại tân đức,0,1,0,0,0,0,0,Cổ phần
+KH-0003,người mua không lấy hóa đơn,0,0,0,0,0,0,1,Khác
+KH-0004,công ty trách nhiệm hữu hạn pro active global việt nam,1,0,0,0,0,0,0,TNHH
+KH-0005,công ty trách nhiệm hữu hạn công nghệ ktech,1,0,0,0,0,0,0,TNHH
+KH-0006,ngân hàng tmcổ phần á châu,0,1,0,0,0,0,0,Cổ phần
+KH-0007,công ty trách nhiệm hữu hạn tích hợp hệ thống cmc sài gòn,1,0,0,0,0,0,0,TNHH
+KH-0008,chi nhánh công ty trách nhiệm hữu hạn máy tính nét (thành phố hà nội),1,0,0,1,0,0,0,TNHH
+KH-0009,cửa hàng vi tính phát đạt bình dương,0,0,0,0,0,1,0,Hộ KD/Cửa hàng
+KH-0010,chi nhánh công ty trách nhiệm hữu hạn kddi vn tại thành phố hồ chí minh,1,0,0,1,0,0,0,TNHH
+KH-0011,dntn vũ cánh,0,0,0,0,0,0,1,Khác
+KH-0012,công ty trách nhiệm hữu hạn navic và kunshin việt nam,1,0,0,0,0,0,0,TNHH
+KH-0013,công ty cổ phần thương mại và dịch vụ phát triển công nghệ sài gòn,0,1,0,0,0,0,0,Cổ phần
+KH-0014,công ty trách nhiệm hữu hạn softwareone việt nam,1,0,0,0,0,0,0,TNHH
+KH-0015,công ty trách nhiệm hữu hạn thương mại và xuất nhập khẩu an nam,1,0,0,0,0,0,0,TNHH
+KH-0016,văn phòng thường trú taisei corporation tại thành phố hồ chí minh,0,0,0,0,0,0,1,Khác
+KH-0017,công ty trách nhiệm hữu hạn quảng cáo và truyền thông thế hệ mới,1,0,0,0,0,0,0,TNHH
+KH-0018,công ty trách nhiệm hữu hạn tm dv công nghệ một thành viên phú an,1,0,0,0,0,0,0,TNHH
+KH-0019,công ty trách nhiệm hữu hạn duy nguyễn mps,1,0,0,0,0,0,0,TNHH
+KH-0020,công ty trách nhiệm hữu hạn trúc xuân,1,0,0,0,0,0,0,TNHH
+KH-0021,công ty cổ phần găng việt,0,1,0,0,0,0,0,Cổ phần
+KH-0023,công ty cổ phần bệnh viện mắt quốc tế hoàn mỹ sài gòn,0,1,0,0,0,0,0,Cổ phần
+KH-0024,công ty trách nhiệm hữu hạn phần mềm kỷ nguyên số,1,0,0,0,0,0,0,TNHH
+KH-0025,công ty trách nhiệm hữu hạn solid & soft,1,0,0,0,0,0,0,TNHH
+KH-0026,công ty trách nhiệm hữu hạn dgs logistics,1,0,0,0,0,0,0,TNHH
+KH-0027,công ty trách nhiệm hữu hạn giao nhận kỷ oai rồng chi na,1,0,0,0,0,0,0,TNHH
+KH-0028,công ty trách nhiệm hữu hạn altus group (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0029,công ty trách nhiệm hữu hạn showa brain navi việt nam,1,0,0,0,0,0,0,TNHH
+KH-0030,công ty trách nhiệm hữu hạn tm dv thiết bị số huy phát,1,0,0,0,0,0,0,TNHH
+KH-0031,công ty trách nhiệm hữu hạn winning access property việt nam,1,0,0,0,0,0,0,TNHH
+KH-0032,công ty trách nhiệm hữu hạn mainetti (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0033,công ty trách nhiệm hữu hạn cơ khí minh đức,1,0,0,0,0,0,0,TNHH
+KH-0034,công ty trách nhiệm hữu hạn cbre (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0035,công ty trách nhiệm hữu hạn thương mại tổng hợp long sơn,1,0,0,0,0,0,0,TNHH
+KH-0036,công ty trách nhiệm hữu hạn tin học viễn thông vinafore,1,0,0,0,0,0,0,TNHH
+KH-0037,chi nhánh công ty trách nhiệm hữu hạn một thành viên thiết bị tin học an phú,1,0,0,1,0,0,0,TNHH
+KH-0038,công ty trách nhiệm hữu hạn epson việt nam,1,0,0,0,0,0,0,TNHH
+KH-0039,ngân hàng thương mại cổ phần bản việt,0,1,0,0,0,0,0,Cổ phần
+KH-0040,công ty trách nhiệm hữu hạn kỹ thuật và công nghệ minh anh,1,0,0,0,0,0,0,TNHH
+KH-0041,công ty luật trách nhiệm hữu hạn gruenkorn & partner,1,0,0,0,0,0,0,TNHH
+KH-0042,công ty luật trách nhiệm hữu hạn quốc tế việt nam (vilaf – hồng đức),1,0,0,0,0,0,0,TNHH
+KH-0043,công ty trách nhiệm hữu hạn tm dv trang thiết bị y tế thành phốt miền nam,1,0,0,0,0,0,0,TNHH
+KH-0044,công ty trách nhiệm hữu hạn organo việt nam,1,0,0,0,0,0,0,TNHH
+KH-0045,công ty trách nhiệm hữu hạn ntt data việt nam,1,0,0,0,0,0,0,TNHH
+KH-0046,công ty cổ phần xây dựng thương mại và dịch vụ act,0,1,0,0,0,0,0,Cổ phần
+KH-0047,công ty trách nhiệm hữu hạn thương mại dịch vụ tin học viễn thông thịnh phát,1,0,0,0,0,0,0,TNHH
+KH-0048,công ty trách nhiệm hữu hạn tư vấn thiết kế tuệ quang pt,1,0,0,0,0,0,0,TNHH
+KH-0049,công ty trách nhiệm hữu hạn wins soft,1,0,0,0,0,0,0,TNHH
+KH-0050,công ty trách nhiệm hữu hạn amorepacific việt nam,1,0,0,0,0,0,0,TNHH
+KH-0051,công ty trách nhiệm hữu hạn giải pháp tích hợp hệ thống hntc,1,0,0,0,0,0,0,TNHH
+KH-0052,công ty cổ phần sao việt,0,1,0,0,0,0,0,Cổ phần
+KH-0053,công ty trách nhiệm hữu hạn sản xuất thương mại dịch vụ in chuyển ktk,1,0,0,0,0,0,0,TNHH
+KH-0054,công ty trách nhiệm hữu hạn thương mại dịch vụ ict sài gòn,1,0,0,0,0,0,0,TNHH
+KH-0055,công ty trách nhiệm hữu hạn một thành viên bluzen vina,1,0,0,0,0,0,0,TNHH
+KH-0056,chi nhánh tại thành phốhồ chí minh công ty trách nhiệm hữu hạn hệ thống thông tin ngân hàng tài chính fpt (thành phốhn),1,0,0,1,0,0,0,TNHH
+KH-0057,công ty trách nhiệm hữu hạn fm supply chain việt nam,1,0,0,0,0,0,0,TNHH
+KH-0058,công ty trách nhiệm hữu hạn monaco healthcare,1,0,0,0,0,0,0,TNHH
+KH-0059,công ty trách nhiệm hữu hạn pmas,1,0,0,0,0,0,0,TNHH
+KH-0060,công ty trách nhiệm hữu hạn một thành viên thương mại và dịch vụ elite,1,0,0,0,0,0,0,TNHH
+KH-0061,công ty trách nhiệm hữu hạn thương mại dịch vụ vi tính sao mai,1,0,0,0,0,0,0,TNHH
+KH-0062,công ty trách nhiệm hữu hạn greystones data systems việt nam,1,0,0,0,0,0,0,TNHH
+KH-0063,công ty trách nhiệm hữu hạn một thành viên ck kt trí trung,1,0,0,0,0,0,0,TNHH
+KH-0064,liên danh nkjicổ phầnbjjtctectedi south tricc,0,1,0,0,0,0,0,Cổ phần
+KH-0065,công ty trách nhiệm hữu hạn bonfiglioli việt nam,1,0,0,0,0,0,0,TNHH
+KH-0066,công ty trách nhiệm hữu hạn công nghệ g7,1,0,0,0,0,0,0,TNHH
+KH-0067,công ty trách nhiệm hữu hạn kahoku lighting solutions việt nam,1,0,0,0,0,0,0,TNHH
+KH-0068,công ty trách nhiệm hữu hạn groove technology vietnam,1,0,0,0,0,0,0,TNHH
+KH-0069,công ty cổ phần thương mại nam thiên á,0,1,0,0,0,0,0,Cổ phần
+KH-0070,công ty trách nhiệm hữu hạn thương mại ngọc thiên bảo,1,0,0,0,0,0,0,TNHH
+KH-0071,công ty trách nhiệm hữu hạn sancoh việt nam,1,0,0,0,0,0,0,TNHH
+KH-0072,chi nhánh tại thành phốhồ chí minh công ty trách nhiệm hữu hạn hệ thống thông tin fpt (thành phố hà nội),1,0,0,1,0,0,0,TNHH
+KH-0073,công ty cổ phần công nghệ trực tuyến tầm nhìn việt,0,1,0,0,0,0,0,Cổ phần
+KH-0074,công ty trách nhiệm hữu hạn khu dân cư leadgroup,1,0,0,0,0,0,0,TNHH
+KH-0075,công ty trách nhiệm hữu hạn metkraft,1,0,0,0,0,0,0,TNHH
+KH-0076,công ty trách nhiệm hữu hạn mitra adiperkasa việt nam,1,0,0,0,0,0,0,TNHH
+KH-0077,công ty trách nhiệm hữu hạn dây cáp điện tai sin (vn),1,0,0,0,0,0,0,TNHH
+KH-0078,công ty trách nhiệm hữu hạn dịch vụ thắng lợi,1,0,0,0,0,0,0,TNHH
+KH-0079,công ty trách nhiệm hữu hạn aytec việt nam,1,0,0,0,0,0,0,TNHH
+KH-0080,công ty trách nhiệm hữu hạn thương mại dịch vụ nozv việt nam,1,0,0,0,0,0,0,TNHH
+KH-0081,công ty trách nhiệm hữu hạn sysone,1,0,0,0,0,0,0,TNHH
+KH-0082,công ty cổ phần giải pháp công nghệ nét số,0,1,0,0,0,0,0,Cổ phần
+KH-0083,công ty trách nhiệm hữu hạn ykk việt nam,1,0,0,0,0,0,0,TNHH
+KH-0084,công ty trách nhiệm hữu hạn tổ hợp nhất việt,1,0,0,0,0,0,0,TNHH
+KH-0085,công ty trách nhiệm hữu hạn một thành viên sản xuất thức ăn chăn nuôi bình minh,1,0,0,0,0,0,0,TNHH
+KH-0086,công ty trách nhiệm hữu hạn xây dựng và kinh doanh nhà điền phúc thành,1,0,0,0,0,0,0,TNHH
+KH-0087,công ty trách nhiệm hữu hạn thiết bị đo lường và điều khiển đại việt,1,0,0,0,0,0,0,TNHH
+KH-0088,công ty trách nhiệm hữu hạn công nghệ thông tin chân trời sáng,1,0,0,0,0,0,0,TNHH
+KH-0089,công ty trách nhiệm hữu hạn một thành viên ktech,1,0,0,0,0,0,0,TNHH
+KH-0090,công ty trách nhiệm hữu hạn youyouwings,1,0,0,0,0,0,0,TNHH
+KH-0091,công ty cổ phần công nghệ tiên phong,0,1,0,0,0,0,0,Cổ phần
+KH-0092,công ty trách nhiệm hữu hạn thương mại và dịch vụ song linh,1,0,0,0,0,0,0,TNHH
+KH-0093,công ty trách nhiệm hữu hạn công nghệ và phần mềm nam á,1,0,0,0,0,0,0,TNHH
+KH-0094,công ty trách nhiệm hữu hạn shiseido việt nam,1,0,0,0,0,0,0,TNHH
+KH-0095,công ty cổ phần hệ thống công nghệ ánh lam,0,1,0,0,0,0,0,Cổ phần
+KH-0096,chi nhánh công ty trách nhiệm hữu hạn một thành viên tổng công ty phát điện 3 công ty dịch vụ sửa chữa các nhà máy điện,1,0,0,1,0,0,0,TNHH
+KH-0097,công ty trách nhiệm hữu hạn đặc rạng việt nam,1,0,0,0,0,0,0,TNHH
+KH-0098,công ty trách nhiệm hữu hạn schenker việt nam,1,0,0,0,0,0,0,TNHH
+KH-0099,công ty trách nhiệm hữu hạn ykk ap facade việt nam,1,0,0,0,0,0,0,TNHH
+KH-0100,công ty cổ phần kiến trúc và thương mại nsp việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0101,công ty trách nhiệm hữu hạn fairfield việt nam,1,0,0,0,0,0,0,TNHH
+KH-0102,công ty cổ phần thế giới số,0,1,0,0,0,0,0,Cổ phần
+KH-0103,công ty cổ phần phát triển điện lực thăng long,0,1,0,0,0,0,0,Cổ phần
+KH-0104,công ty trách nhiệm hữu hạn vinacổ phầnk,1,1,0,0,0,0,0,TNHH
+KH-0105,công ty trách nhiệm hữu hạn jang won tech vina,1,0,0,0,0,0,0,TNHH
+KH-0106,công ty trách nhiệm hữu hạn thương mại dịch vụ viết quang,1,0,0,0,0,0,0,TNHH
+KH-0107,công ty trách nhiệm hữu hạn trần việt phát,1,0,0,0,0,0,0,TNHH
+KH-0108,công ty cổ phần tập đoàn trung nguyên,0,1,0,0,0,0,0,Cổ phần
+KH-0109,công ty trách nhiệm hữu hạn một thành viên hiệp thịnh,1,0,0,0,0,0,0,TNHH
+KH-0110,công ty cổ phần công nghệ đại trần gia,0,1,0,0,0,0,0,Cổ phần
+KH-0111,công ty cổ phần tiến bộ quốc tế,0,1,0,0,0,0,0,Cổ phần
+KH-0112,công ty trách nhiệm hữu hạn thương mại kỹ thuật tin học anh ngọc,1,0,0,0,0,0,0,TNHH
+KH-0113,công ty trách nhiệm hữu hạn tiếp vận kintetsu việt nam,1,0,0,0,0,0,0,TNHH
+KH-0114,công ty trách nhiệm hữu hạn một thành viên khách sạn sunway hà nội,1,0,0,0,0,0,0,TNHH
+KH-0115,công ty cổ phần iposvn,0,1,0,0,0,0,0,Cổ phần
+KH-0116,văn phòng đại diện công ty taisei tại hà nội,0,0,0,0,1,0,0,VPĐD
+KH-0117,công ty cổ phần đàug tư công nghệ sti,0,1,0,0,0,0,0,Cổ phần
+KH-0118,công ty cổ phần pin hà nội,0,1,0,0,0,0,0,Cổ phần
+KH-0119,công ty trách nhiệm hữu hạn sinh nam,1,0,0,0,0,0,0,TNHH
+KH-0120,công ty trách nhiệm hữu hạn thương mại kỹ thuật hải quang,1,0,0,0,0,0,0,TNHH
+KH-0121,công ty trách nhiệm hữu hạn iko thompson việt nam,1,0,0,0,0,0,0,TNHH
+KH-0122,công ty trách nhiệm hữu hạn totalgaz việt nam,1,0,0,0,0,0,0,TNHH
+KH-0123,công ty trách nhiệm hữu hạn giải pháp công nghệ hoàn hảo,1,0,0,0,0,0,0,TNHH
+KH-0124,công ty cổ phần điện ii,0,1,0,0,0,0,0,Cổ phần
+KH-0125,công ty cổ phần thương mại và phát triển kỹ thuật cao vihoth,0,1,0,0,0,0,0,Cổ phần
+KH-0126,công ty trách nhiệm hữu hạn dịch vụ tin học rồng việt,1,0,0,0,0,0,0,TNHH
+KH-0127,công ty cổ phần phân phối và bán lẻ bt,0,1,0,0,0,0,0,Cổ phần
+KH-0128,công ty công nghệ thông tin điện lực miền bắc,0,0,0,0,0,0,1,Khác
+KH-0129,công ty trách nhiệm hữu hạn cổ phầnro việt nam,1,1,0,0,0,0,0,TNHH
+KH-0130,công ty trách nhiệm hữu hạn deloitte việt nam,1,0,0,0,0,0,0,TNHH
+KH-0131,công ty cổ phần songwol vina,0,1,0,0,0,0,0,Cổ phần
+KH-0132,bảo hiểm xã hội tỉnh hà giang,0,0,0,0,0,0,1,Khác
+KH-0133,công ty cổ phần kiến trúc đồng nhân,0,1,0,0,0,0,0,Cổ phần
+KH-0134,công ty trách nhiệm hữu hạn nông lâm sản tiên phước,1,0,0,0,0,0,0,TNHH
+KH-0135,công ty trách nhiệm hữu hạn eagle one enterprise,1,0,0,0,0,0,0,TNHH
+KH-0136,công ty cổ phần srp,0,1,0,0,0,0,0,Cổ phần
+KH-0137,công ty trách nhiệm hữu hạn phân phối synnex fpt,1,0,0,0,0,0,0,TNHH
+KH-0138,công ty trách nhiệm hữu hạn giải pháp công trường xây dựng doosan việt nam,1,0,0,0,0,0,0,TNHH
+KH-0139,công ty trách nhiệm hữu hạn xây dựng sandstone,1,0,0,0,0,0,0,TNHH
+KH-0140,công ty trách nhiệm hữu hạn dịch vụ tin học fpt,1,0,0,0,0,0,0,TNHH
+KH-0141,công ty cổ phần trung việt hưng,0,1,0,0,0,0,0,Cổ phần
+KH-0142,công ty cổ phần act brain việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0143,công ty cổ phần vi tính mekong,0,1,0,0,0,0,0,Cổ phần
+KH-0144,công ty cổ phần thương mại dịch vụ phú sinh kim,0,1,0,0,0,0,0,Cổ phần
+KH-0145,ngân hàng tmcổ phần sài gòn hà nội,0,1,0,0,0,0,0,Cổ phần
+KH-0146,liên đoàn bóng đá nauy,0,0,0,0,0,0,1,Khác
+KH-0147,công ty trách nhiệm hữu hạn công nghệ nettop việt nam,1,0,0,0,0,0,0,TNHH
+KH-0148,công ty trách nhiệm hữu hạn sojitz viet nam,1,0,0,0,0,0,0,TNHH
+KH-0149,công ty cổ phần zakka,0,1,0,0,0,0,0,Cổ phần
+KH-0150,công ty trách nhiệm hữu hạn thương mại và phát triển công nghệ ae việt nam,1,0,0,0,0,0,0,TNHH
+KH-0151,công ty cổ phần style stone,0,1,0,0,0,0,0,Cổ phần
+KH-0152,công ty cổ phần thái minh,0,1,0,0,0,0,0,Cổ phần
+KH-0153,công ty cổ phần công nghệ kỹ thuật số hitd,0,1,0,0,0,0,0,Cổ phần
+KH-0154,công ty cổ phần thiết bị công nghiệp và chuyển giao công nghệ việt thắng,0,1,0,0,0,0,0,Cổ phần
+KH-0155,nhà máy sữa đậu nành việt nam vinasoy chi nhánh công ty cổ phần đường quảng ngãi,0,1,0,1,0,0,0,Cổ phần
+KH-0156,công ty trách nhiệm hữu hạn xây dựng cad,1,0,0,0,0,0,0,TNHH
+KH-0157,công ty trách nhiệm hữu hạn youngone nam định,1,0,0,0,0,0,0,TNHH
+KH-0158,chi nhánh công ty trách nhiệm hữu hạn emtech việt nam tại nghệ an,1,0,0,1,0,0,0,TNHH
+KH-0159,chi nhánh công ty trách nhiệm hữu hạn bơm ebara việt nam tại hà nội,1,0,0,1,0,0,0,TNHH
+KH-0160,công ty trách nhiệm hữu hạn công nghệ cao bách khoa,1,0,0,0,0,0,0,TNHH
+KH-0161,công ty trách nhiệm hữu hạn bao bì mm vidon,1,0,0,0,0,0,0,TNHH
+KH-0162,công ty trách nhiệm hữu hạn menkar,1,0,0,0,0,0,0,TNHH
+KH-0163,công ty trách nhiệm hữu hạn một thành viên việt giay,1,0,0,0,0,0,0,TNHH
+KH-0164,trường tiểu học dân lập việt mỹ,0,0,0,0,0,0,1,Khác
+KH-0165,trường thcs việt mỹ,0,0,0,0,0,0,1,Khác
+KH-0166,công ty trách nhiệm hữu hạn công nghệ 360 việt nam,1,0,0,0,0,0,0,TNHH
+KH-0167,công ty trách nhiệm hữu hạn một thành viên tín phát computer,1,0,0,0,0,0,0,TNHH
+KH-0168,công ty cổ phần giải pháp công nghệ thông tin việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0169,công ty trách nhiệm hữu hạn thương mại kết nối an toàn,1,0,0,0,0,0,0,TNHH
+KH-0170,công ty trách nhiệm hữu hạn pacisoft việt nam,1,0,0,0,0,0,0,TNHH
+KH-0171,công ty trách nhiệm hữu hạn máy tính đức an,1,0,0,0,0,0,0,TNHH
+KH-0172,công ty trách nhiệm hữu hạn silver heritage việt nam,1,0,0,0,0,0,0,TNHH
+KH-0173,công ty cổ phần tích hợp giải pháp kst,0,1,0,0,0,0,0,Cổ phần
+KH-0174,công ty trách nhiệm hữu hạn giải pháp an ninh kết nối công nghệ cao,1,0,0,0,0,0,0,TNHH
+KH-0175,công ty cổ phần dịch vụ công nghệ tsc việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0176,công ty trách nhiệm hữu hạn kddi việt nam,1,0,0,0,0,0,0,TNHH
+KH-0177,công ty vnpt global hk ltd,0,0,0,0,0,0,1,Khác
+KH-0178,công ty trách nhiệm hữu hạn một thành viên xăng dầu bến tre,1,0,0,0,0,0,0,TNHH
+KH-0179,công ty trách nhiệm hữu hạn giang khánh vinh,1,0,0,0,0,0,0,TNHH
+KH-0180,công ty trách nhiệm hữu hạn draeger việt nam,1,0,0,0,0,0,0,TNHH
+KH-0181,công ty trách nhiệm hữu hạn thakral one – chi nhánh tại hà nội,1,0,0,1,0,0,0,TNHH
+KH-0182,công ty trách nhiệm hữu hạn một thành viên thương mại và dịch vụ thịnh phát computer,1,0,0,0,0,0,0,TNHH
+KH-0183,công ty cổ phần trihan,0,1,0,0,0,0,0,Cổ phần
+KH-0184,chi nhánh công ty cổ phần kho vận jupiter việt nam tại hà nội,0,1,0,1,0,0,0,Cổ phần
+KH-0185,chi nhánh công ty cổ phần giao nhận hàng hoá jupiter pacific tại thành phố hà nội,0,1,0,1,0,0,0,Cổ phần
+KH-0186,công ty trách nhiệm hữu hạn ovi cables (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0187,công ty cổ phần điện lực khánh hòa,0,1,0,0,0,0,0,Cổ phần
+KH-0188,công ty trách nhiệm hữu hạn công nghiệp adcel việt nam,1,0,0,0,0,0,0,TNHH
+KH-0189,công ty cổ phần dịch vụ bảo vệ alsok việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0190,công ty trách nhiệm hữu hạn công nghệ info việt nam,1,0,0,0,0,0,0,TNHH
+KH-0191,công ty trách nhiệm hữu hạn viettel cht,1,0,0,0,0,0,0,TNHH
+KH-0192,hợp tác xã mây tre lá ba nhất,0,0,0,0,0,0,1,Khác
+KH-0193,công ty trách nhiệm hữu hạn thương mại quốc tế tiến thành,1,0,0,0,0,0,0,TNHH
+KH-0194,công ty trách nhiệm hữu hạn esoftflow,1,0,0,0,0,0,0,TNHH
+KH-0195,công ty trách nhiệm hữu hạn fuji seal việt nam,1,0,0,0,0,0,0,TNHH
+KH-0196,công ty cổ phần máy tính – truyền thông điều khiển 3c,0,1,0,0,0,0,0,Cổ phần
+KH-0197,công ty trách nhiệm hữu hạn imax,1,0,0,0,0,0,0,TNHH
+KH-0198,công ty trách nhiệm hữu hạn công ty khai thác đá vôi yabashi việt nam,1,0,0,0,0,0,0,TNHH
+KH-0199,công ty cổ phần reecom group,0,1,0,0,0,0,0,Cổ phần
+KH-0200,công ty trách nhiệm hữu hạn phát triển nam hội an,1,0,0,0,0,0,0,TNHH
+KH-0201,công ty trách nhiệm hữu hạn shift asia,1,0,0,0,0,0,0,TNHH
+KH-0202,công ty cổ phần giải pháp siêu việt,0,1,0,0,0,0,0,Cổ phần
+KH-0203,công ty trách nhiệm hữu hạn enkei việt nam,1,0,0,0,0,0,0,TNHH
+KH-0204,công ty cổ phần dfmengineering,0,1,0,0,0,0,0,Cổ phần
+KH-0205,công ty trách nhiệm hữu hạn thiết bị phụ tùng công nghiệp việt nam,1,0,0,0,0,0,0,TNHH
+KH-0206,công ty trách nhiệm hữu hạn thương mại dịch vụ và du lịch song anh,1,0,0,0,0,0,0,TNHH
+KH-0207,công ty trách nhiệm hữu hạn công nghiệp fullwei việt nam,1,0,0,0,0,0,0,TNHH
+KH-0208,công ty trách nhiệm hữu hạn thiết bị in spm,1,0,0,0,0,0,0,TNHH
+KH-0209,văn phòng đăng ký đất đai tỉnh bắc ninh,0,0,0,0,0,0,1,Khác
+KH-0210,công ty trách nhiệm hữu hạn mạng thông tin phẳng,1,0,0,0,0,0,0,TNHH
+KH-0211,công ty trách nhiệm hữu hạn kondo tekko việt nam,1,0,0,0,0,0,0,TNHH
+KH-0212,công ty trách nhiệm hữu hạn dongsung vina,1,0,0,0,0,0,0,TNHH
+KH-0213,công ty cổ phần công nghệ & khoa học sông hồng,0,1,0,0,0,0,0,Cổ phần
+KH-0214,công ty cổ phần đất hiếm việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0215,công ty cổ phần phần mềm quản lý doanh nghiệp,0,1,0,0,0,0,0,Cổ phần
+KH-0216,công ty trách nhiệm hữu hạn inoac việt nam,1,0,0,0,0,0,0,TNHH
+KH-0217,công ty trách nhiệm hữu hạn thương mại và dịch vụ ddn,1,0,0,0,0,0,0,TNHH
+KH-0218,công ty cổ phần tư vấn và dịch vụ công nghệ thông tin kinh doanh mạng lưới công nghệ cao,0,1,0,0,0,0,0,Cổ phần
+KH-0219,aspen resources pte ltd,0,0,0,0,0,0,1,Khác
+KH-0220,công ty trách nhiệm hữu hạn bao bì nexgen việt nam,1,0,0,0,0,0,0,TNHH
+KH-0221,công ty trách nhiệm hữu hạn thương mại và dịch vụ tin học khánh phương,1,0,0,0,0,0,0,TNHH
+KH-0222,công ty cổ phần ipl,0,1,0,0,0,0,0,Cổ phần
+KH-0223,công ty trách nhiệm hữu hạn thành lợi,1,0,0,0,0,0,0,TNHH
+KH-0224,chi nhánh công ty trách nhiệm hữu hạn mazars việt nam tại hà nội,1,0,0,1,0,0,0,TNHH
+KH-0225,công ty trách nhiệm hữu hạn bơm ebara việt nam,1,0,0,0,0,0,0,TNHH
+KH-0226,công ty trách nhiệm hữu hạn br24 vietnam,1,0,0,0,0,0,0,TNHH
+KH-0227,công ty trách nhiệm hữu hạn canon marketing việt nam,1,0,0,0,0,0,0,TNHH
+KH-0228,công ty cổ phần dịch vụ hàng hóa nội bài,0,1,0,0,0,0,0,Cổ phần
+KH-0229,công ty cổ phần viễn thông giang nam,0,1,0,0,0,0,0,Cổ phần
+KH-0230,công ty trách nhiệm hữu hạn thương mại dịch vụ xuất nhập khẩu khôi nguyên,1,0,0,0,0,0,0,TNHH
+KH-0231,công ty cổ phần cao su sao vàng,0,1,0,0,0,0,0,Cổ phần
+KH-0232,công ty trách nhiệm hữu hạn một thành viên espersen việt nam,1,0,0,0,0,0,0,TNHH
+KH-0233,công ty trách nhiệm hữu hạn việt pan pacific thanh hóa,1,0,0,0,0,0,0,TNHH
+KH-0234,công ty trách nhiệm hữu hạn umec việt nam,1,0,0,0,0,0,0,TNHH
+KH-0235,công ty cổ phần công nghệ máy tính và kiến trúc hà nội,0,1,0,0,0,0,0,Cổ phần
+KH-0236,công ty cổ phần công nghệ thiên vận,0,1,0,0,0,0,0,Cổ phần
+KH-0237,công ty cổ phần đầu tư phát triển công nghệ ứng dụng toàn cầu,0,1,0,0,0,0,0,Cổ phần
+KH-0238,công ty trách nhiệm hữu hạn phần mềm fpt,1,0,0,0,0,0,0,TNHH
+KH-0239,cổng thông tin điện tử nghệ an,0,0,0,0,0,0,1,Khác
+KH-0240,công ty trách nhiệm hữu hạn extrans việt nam,1,0,0,0,0,0,0,TNHH
+KH-0241,công ty trách nhiệm hữu hạn may xuất nhập khẩu đức thành 3,1,0,0,0,0,0,0,TNHH
+KH-0242,công ty cổ phần hãng sơn đông á,0,1,0,0,0,0,0,Cổ phần
+KH-0243,công ty trách nhiệm hữu hạn công nghệ thông tin việt sao,1,0,0,0,0,0,0,TNHH
+KH-0244,công ty cổ phần thương mại và xuất nhập khẩu hsc39,0,1,0,0,0,0,0,Cổ phần
+KH-0245,công ty trách nhiệm hữu hạn honda trading việt nam,1,0,0,0,0,0,0,TNHH
+KH-0246,công ty trách nhiệm hữu hạn thương mại và dịch vụ mitu,1,0,0,0,0,0,0,TNHH
+KH-0247,công ty cổ phần dịch vụ công nghệ tin học hpt,0,1,0,0,0,0,0,Cổ phần
+KH-0248,công ty cổ phần dược pha nam,0,1,0,0,0,0,0,Cổ phần
+KH-0249,chi nhánh csp legal llc tại hà nội,0,0,0,1,0,0,0,Chi nhánh
+KH-0250,công ty trách nhiệm hữu hạn một thành viên karcher,1,0,0,0,0,0,0,TNHH
+KH-0251,công ty trách nhiệm hữu hạn netmarks việt nam,1,0,0,0,0,0,0,TNHH
+KH-0252,công ty trách nhiệm hữu hạn mobile mapping việt nam,1,0,0,0,0,0,0,TNHH
+KH-0253,công ty trách nhiệm hữu hạn một thành viên thực phẩm phúc lộc thọ,1,0,0,0,0,0,0,TNHH
+KH-0254,công ty trách nhiệm hữu hạn lg electronics việt nam hải phòng,1,0,0,0,0,0,0,TNHH
+KH-0255,ace tech co ltd,0,0,0,0,0,0,1,Khác
+KH-0256,công ty cổ phần chăm sóc công nghệ thông tin,0,1,0,0,0,0,0,Cổ phần
+KH-0257,công ty cổ phần công nghệ bnh việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0258,công ty cổ phần thương mại quốc tế hoàn cầu,0,1,0,0,0,0,0,Cổ phần
+KH-0259,krystad consult,0,0,0,0,0,0,1,Khác
+KH-0260,công ty trách nhiệm hữu hạn valqua việt nam,1,0,0,0,0,0,0,TNHH
+KH-0261,cục đăng kiểm việt nam,0,0,0,0,0,0,1,Khác
+KH-0262,công ty cổ phần công nghệ tâm hợp nhất,0,1,0,0,0,0,0,Cổ phần
+KH-0263,công ty trách nhiệm hữu hạn thịnh phát auto,1,0,0,0,0,0,0,TNHH
+KH-0264,ngân hàng thương mại cổ phần việt nam thịnh vượng,0,1,0,0,0,0,0,Cổ phần
+KH-0265,công ty cổ phần foody,0,1,0,0,0,0,0,Cổ phần
+KH-0266,công ty cổ phần công nghệ bình minh,0,1,0,0,0,0,0,Cổ phần
+KH-0267,khách hàng mua lẻgiao hàng thu tiền ngay,0,0,0,0,0,0,1,Khác
+KH-0268,công ty trách nhiệm hữu hạn netika business solution việt nam,1,0,0,0,0,0,0,TNHH
+KH-0269,công ty trách nhiệm hữu hạn quốc tế delta,1,0,0,0,0,0,0,TNHH
+KH-0270,công ty trách nhiệm hữu hạn geroc,1,0,0,0,0,0,0,TNHH
+KH-0271,công ty trách nhiệm hữu hạn đầu tư phát triển công nghệ và thương mại trúc vân,1,0,0,0,0,0,0,TNHH
+KH-0272,công ty cổ phần thiết bị máy tính an phú hưng,0,1,0,0,0,0,0,Cổ phần
+KH-0273,công ty cổ phần công nghệ sota việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0274,công ty trách nhiệm hữu hạn img việt nam,1,0,0,0,0,0,0,TNHH
+KH-0275,công ty cổ phần in minh phương,0,1,0,0,0,0,0,Cổ phần
+KH-0276,công ty trách nhiệm hữu hạn thương mại dịch vụ triparest,1,0,0,0,0,0,0,TNHH
+KH-0277,bưu điện tỉnh sơn la,0,0,0,0,0,0,1,Khác
+KH-0278,công ty cổ phần tập đoàn ceo,0,1,0,0,0,0,0,Cổ phần
+KH-0279,công ty trách nhiệm hữu hạn yoosung kn việt nam,1,0,0,0,0,0,0,TNHH
+KH-0280,công ty trách nhiệm hữu hạn dịch vụ thương mại kho đỏ,1,0,0,0,0,0,0,TNHH
+KH-0281,công ty trách nhiệm hữu hạn botanical cosmetic,1,0,0,0,0,0,0,TNHH
+KH-0282,công ty trách nhiệm hữu hạn siêu siêu nhỏ,1,0,0,0,0,0,0,TNHH
+KH-0283,công ty cổ phần đầu tư smart fun,0,1,0,0,0,0,0,Cổ phần
+KH-0284,công ty trách nhiệm hữu hạn besthành phốlant,1,0,0,0,0,0,0,TNHH
+KH-0285,công ty trách nhiệm hữu hạn thông tin ntt (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0286,công ty trách nhiệm hữu hạn dan ti,1,0,0,0,0,0,0,TNHH
+KH-0287,công ty trách nhiệm hữu hạn nam&co london,1,0,0,0,0,0,0,TNHH
+KH-0288,công ty cổ phần dịch vụ giải pháp công nghệ mạng 10,0,1,0,0,0,0,0,Cổ phần
+KH-0289,công ty trách nhiệm hữu hạn sữa cho tương lai,1,0,0,0,0,0,0,TNHH
+KH-0290,công ty cổ phần điện và chiếu sáng an phú,0,1,0,0,0,0,0,Cổ phần
+KH-0291,chi nhánh công ty trách nhiệm hữu hạn đầu tư bất động sản hòa bình khách sạn novotel suites hà nội,1,0,0,1,0,0,0,TNHH
+KH-0292,công ty trách nhiệm hữu hạn cơ điện lạnh thương mại hòa bình,1,0,0,0,0,0,0,TNHH
+KH-0293,công ty trách nhiệm hữu hạn công nghiệp nặng doosan việt nam,1,0,0,0,0,0,0,TNHH
+KH-0294,ngân hàng thương mại cổ phần kỹ thương việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0295,công ty cổ phần công nghệ sao bắc đẩu,0,1,0,0,0,0,0,Cổ phần
+KH-0296,chi nhánh công ty trách nhiệm hữu hạn cargill việt nam tại hưng yên,1,0,0,1,0,0,0,TNHH
+KH-0297,công ty trách nhiệm hữu hạn quảng cáo duy nguyên,1,0,0,0,0,0,0,TNHH
+KH-0298,công ty cổ phần thương mại và công nghệ thông tin tân việt,0,1,0,0,0,0,0,Cổ phần
+KH-0299,công ty cổ phần thương mại và du lịch tầm nhìn việt,0,1,0,0,0,0,0,Cổ phần
+KH-0300,công ty cổ phần sản xuất và thương mại điện bình sơn,0,1,0,0,0,0,0,Cổ phần
+KH-0301,công ty trách nhiệm hữu hạn một thành viên techcoms,1,0,0,0,0,0,0,TNHH
+KH-0302,công ty cổ phần visco,0,1,0,0,0,0,0,Cổ phần
+KH-0303,công ty cổ phần 3b,0,1,0,0,0,0,0,Cổ phần
+KH-0304,công ty cổ phần đầu tư xây dựng thương mại công nghệ thăng long,0,1,0,0,0,0,0,Cổ phần
+KH-0305,phòng tài vụ viện quy hoạch thủy lợi,0,0,0,0,0,0,1,Khác
+KH-0306,trung tâm phát triển thương mại điện tử,0,0,0,0,0,0,1,Khác
+KH-0307,ngân hàng hợp tác xã việt nam,0,0,0,0,0,0,1,Khác
+KH-0308,công ty trách nhiệm hữu hạn medikit việt nam,1,0,0,0,0,0,0,TNHH
+KH-0309,công ty trách nhiệm hữu hạn thương mại hoàng phát,1,0,0,0,0,0,0,TNHH
+KH-0310,công ty cổ phần sản xuất và dịch vụ máy tính 3c,0,1,0,0,0,0,0,Cổ phần
+KH-0311,công ty trách nhiệm hữu hạn thương mại và xuất nhập khẩu d&c việt nam,1,0,0,0,0,0,0,TNHH
+KH-0312,công ty cổ phần công nghệ và truyền thông teccom,0,1,0,0,0,0,0,Cổ phần
+KH-0313,công ty trách nhiệm hữu hạn quản lý xây dựng vincom 1,1,0,0,0,0,0,0,TNHH
+KH-0314,công ty trách nhiệm hữu hạn đầu tư xây dựng và thương mại ngãi cầu,1,0,0,0,0,0,0,TNHH
+KH-0315,công ty trách nhiệm hữu hạn thương mại kỹ thuật thiên phú,1,0,0,0,0,0,0,TNHH
+KH-0316,công ty trách nhiệm hữu hạn công nghệ đột dập mochizuki việt nam,1,0,0,0,0,0,0,TNHH
+KH-0317,công ty trách nhiệm hữu hạn dịch vụ số hợp quân,1,0,0,0,0,0,0,TNHH
+KH-0318,công ty trách nhiệm hữu hạn ogishi việt nam,1,0,0,0,0,0,0,TNHH
+KH-0319,công ty cổ phần việt nga,0,1,0,0,0,0,0,Cổ phần
+KH-0320,chi nhánh công ty trách nhiệm hữu hạn toda việt nam tại hà nội,1,0,0,1,0,0,0,TNHH
+KH-0321,công ty trách nhiệm hữu hạn dịch vụ thương mại trang nhi,1,0,0,0,0,0,0,TNHH
+KH-0322,công ty trách nhiệm hữu hạn vietnam jintuo electronics,1,0,0,0,0,0,0,TNHH
+KH-0323,công ty trách nhiệm hữu hạn một thành viên thương mại itcg việt nam,1,0,0,0,0,0,0,TNHH
+KH-0324,công ty cổ phần đầu tư và phát triển đô thị việt hưng,0,1,0,0,0,0,0,Cổ phần
+KH-0325,công ty trách nhiệm hữu hạn công trình cấp thoát nước & hạ tầng đô thị mat,1,0,0,0,0,0,0,TNHH
+KH-0326,công ty trách nhiệm hữu hạn tư vấn mri,1,0,0,0,0,0,0,TNHH
+KH-0327,công ty trách nhiệm hữu hạn digital daesung việt nam,1,0,0,0,0,0,0,TNHH
+KH-0328,công ty trách nhiệm hữu hạn power logics vina,1,0,0,0,0,0,0,TNHH
+KH-0329,công ty cổ phần quốc tế world star,0,1,0,0,0,0,0,Cổ phần
+KH-0330,công ty cổ phần tập đoàn vbcc,0,1,0,0,0,0,0,Cổ phần
+KH-0331,chi nhánh miền trung công ty cổ phần tu bổ di tích twvinaremon,0,1,0,1,0,0,0,Cổ phần
+KH-0332,công ty trách nhiệm hữu hạn pin gp (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0333,công ty trách nhiệm hữu hạn thời trang star,1,0,0,0,0,0,0,TNHH
+KH-0334,công ty cổ phần tư vấn xây dựng cảng đường thuỷ,0,1,0,0,0,0,0,Cổ phần
+KH-0335,công ty trách nhiệm hữu hạn nissho electronics việt nam,1,0,0,0,0,0,0,TNHH
+KH-0336,công ty trách nhiệm hữu hạn dịch vụ và thương mại vietsun,1,0,0,0,0,0,0,TNHH
+KH-0337,công ty cổ phần hồng lam,0,1,0,0,0,0,0,Cổ phần
+KH-0338,công ty cổ phần phát triển nguồn nhân lực thái sơn,0,1,0,0,0,0,0,Cổ phần
+KH-0339,công ty trách nhiệm hữu hạn công nghệ và giải pháp thông minh,1,0,0,0,0,0,0,TNHH
+KH-0340,công ty trách nhiệm hữu hạn kỹ nghệ banico,1,0,0,0,0,0,0,TNHH
+KH-0341,công ty cổ phần yotek,0,1,0,0,0,0,0,Cổ phần
+KH-0342,công ty cổ phần bách toàn,0,1,0,0,0,0,0,Cổ phần
+KH-0343,tổng công ty cổ phần bia rượu nước giải khát hà nội,0,1,0,0,0,0,0,Cổ phần
+KH-0344,công ty cổ phần tư vấn quản trị doanh nghiệp tinh vân,0,1,0,0,0,0,0,Cổ phần
+KH-0345,công ty trách nhiệm hữu hạn hjc vina,1,0,0,0,0,0,0,TNHH
+KH-0346,công ty cổ phần tập đoàn thaigroup,0,1,0,0,0,0,0,Cổ phần
+KH-0347,tổng cục hậu cần bộ quốc phòng,0,0,0,0,0,0,1,Khác
+KH-0348,công ty cổ phần ứng dụng và phát triển công nghệ thông tin,0,1,0,0,0,0,0,Cổ phần
+KH-0349,công ty trách nhiệm hữu hạn thiết bị tin học vinatech,1,0,0,0,0,0,0,TNHH
+KH-0350,ban phát triển cộng đồng xã vân thanh,0,0,0,0,0,0,1,Khác
+KH-0351,công ty cổ phần xây lắp và điện nước quang minh,0,1,0,0,0,0,0,Cổ phần
+KH-0352,công ty trách nhiệm hữu hạn thái hoa đô,1,0,0,0,0,0,0,TNHH
+KH-0353,công ty trách nhiệm hữu hạn thương mại & đầu tư công nghệ phượng hoàng,1,0,0,0,0,0,0,TNHH
+KH-0354,trung tâm đăng kiểm xe cơ giới 9802dchi nhánhhtxđtxdql và kt chợ hải an tại thành phốbg,0,0,0,1,0,0,0,Chi nhánh
+KH-0355,công ty trách nhiệm hữu hạn một thành viên điện tử tin học mhq,1,0,0,0,0,0,0,TNHH
+KH-0356,công ty cổ phần giải pháp tech vietnam,0,1,0,0,0,0,0,Cổ phần
+KH-0357,công ty cổ phần dịch vụ văn phòng bắc hà,0,1,0,0,0,0,0,Cổ phần
+KH-0358,công ty trách nhiệm hữu hạn kss việt nam,1,0,0,0,0,0,0,TNHH
+KH-0359,công ty cổ phần phát triển dịch vụ an lộc,0,1,0,0,0,0,0,Cổ phần
+KH-0360,hợp tác xã đầu tư xây dựng quản lý và khai thác chợ hải an,0,0,0,0,0,0,1,Khác
+KH-0361,công ty trách nhiệm hữu hạn thương mại điện tử bảo giang,1,0,0,0,0,0,0,TNHH
+KH-0362,văn phòng công chứng nguyễn văn thu,0,0,0,0,0,0,1,Khác
+KH-0363,công ty trách nhiệm hữu hạn công nghệ phần mềm top việt nam,1,0,0,0,0,0,0,TNHH
+KH-0364,công ty trách nhiệm hữu hạn hệ thống mới việt nam,1,0,0,0,0,0,0,TNHH
+KH-0365,công ty cổ phần công nghệ và tin học est,0,1,0,0,0,0,0,Cổ phần
+KH-0366,công ty cổ phần đầu tư và phát triển nhà hà nội số 52,0,1,0,0,0,0,0,Cổ phần
+KH-0367,công ty trách nhiệm hữu hạn công nghệ và truyền thông an ma việt nam,1,0,0,0,0,0,0,TNHH
+KH-0368,công ty cổ phần bellsystem24hoasao,0,1,0,0,0,0,0,Cổ phần
+KH-0369,công ty trách nhiệm hữu hạn thương mại và đầu tư phát triển công nghệ,1,0,0,0,0,0,0,TNHH
+KH-0370,văn phòng đại diện ngân hàng trách nhiệm hữu hạn ctbc tại hà nội,1,0,0,0,1,0,0,TNHH
+KH-0371,công ty trách nhiệm hữu hạn maxport limited (viet nam),1,0,0,0,0,0,0,TNHH
+KH-0372,công ty trách nhiệm hữu hạn công nghệ phẩm ba đình,1,0,0,0,0,0,0,TNHH
+KH-0373,công ty cổ phần thủy điện leader nam tiến,0,1,0,0,0,0,0,Cổ phần
+KH-0374,công ty cổ phần a b phú quốc,0,1,0,0,0,0,0,Cổ phần
+KH-0375,chi nhánh công ty trách nhiệm hữu hạn tư vấn kỹ thuật tin học và thương mại việt cad,1,0,0,1,0,0,0,TNHH
+KH-0376,công ty cổ phần bluesofts,0,1,0,0,0,0,0,Cổ phần
+KH-0377,công ty trách nhiệm hữu hạn điện gió chính thắng,1,0,0,0,0,0,0,TNHH
+KH-0378,công ty cổ phần advantech việt nam technology,0,1,0,0,0,0,0,Cổ phần
+KH-0379,công ty trách nhiệm hữu hạn công nghệ thông tin việt nam sơn,1,0,0,0,0,0,0,TNHH
+KH-0380,công ty cổ phần kỹ thuật cmp,0,1,0,0,0,0,0,Cổ phần
+KH-0381,công ty trách nhiệm hữu hạn thiết bị nội thất cao cấp,1,0,0,0,0,0,0,TNHH
+KH-0382,công ty trách nhiệm hữu hạn tín bảo lan,1,0,0,0,0,0,0,TNHH
+KH-0383,công ty tnnhh kỹ thuật bền vững việt nam,0,0,0,0,0,0,1,Khác
+KH-0384,công ty cổ phần công nghệ và dịch vụ máy chủ minh châu,0,1,0,0,0,0,0,Cổ phần
+KH-0385,công ty trách nhiệm hữu hạn insight technology việt nam,1,0,0,0,0,0,0,TNHH
+KH-0386,công ty liên doanh y học việt hàn,0,0,0,0,0,0,1,Khác
+KH-0387,công ty trách nhiệm hữu hạn dịch vụ công nghệ phát triển bền vững và quản lý năng lượng,1,0,0,0,0,0,0,TNHH
+KH-0388,công ty cổ phần tư vấn thiết kế điện long giang,0,1,0,0,0,0,0,Cổ phần
+KH-0389,công ty trách nhiệm hữu hạn hệ thống truyền tải và phân phối toshiba (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0390,công ty trách nhiệm hữu hạn tiếp vận thăng long,1,0,0,0,0,0,0,TNHH
+KH-0391,công ty cổ phần xây dựng và đầu tư thương mại hoàng hà,0,1,0,0,0,0,0,Cổ phần
+KH-0392,học viện khoa học xã hội,0,0,0,0,0,0,1,Khác
+KH-0393,công ty trách nhiệm hữu hạn tư vấn giải pháp và đào tạo công nghệ thông tin dipt,1,0,0,0,0,0,0,TNHH
+KH-0394,chi nhánh công ty cổ phần logistics vinalink,0,1,0,1,0,0,0,Cổ phần
+KH-0395,công ty trách nhiệm hữu hạn framas hanoi,1,0,0,0,0,0,0,TNHH
+KH-0396,công ty trách nhiệm hữu hạn framgia việt nam,1,0,0,0,0,0,0,TNHH
+KH-0397,trung tâm tin học bộ khoa học công nghệ,0,0,0,0,0,0,1,Khác
+KH-0398,công ty trách nhiệm hữu hạn công nghệ phần mềm sao việt,1,0,0,0,0,0,0,TNHH
+KH-0399,công ty trách nhiệm hữu hạn sao đỏ việt nam,1,0,0,0,0,0,0,TNHH
+KH-0400,công ty cổ phần thương mại máy chủ hà nội,0,1,0,0,0,0,0,Cổ phần
+KH-0401,công ty trách nhiệm hữu hạn fujitsu việt nam,1,0,0,0,0,0,0,TNHH
+KH-0402,công ty trách nhiệm hữu hạn phần mềm chất lượng,1,0,0,0,0,0,0,TNHH
+KH-0403,trung tâm hạ tầng thông tin tỉnh phúc,0,0,0,0,0,0,1,Khác
+KH-0404,công ty cổ phần tích hợp hệ thống thông tin 3csi,0,1,0,0,0,0,0,Cổ phần
+KH-0405,công ty cổ phần hyundai thành công việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0406,chi nhánh công ty trách nhiệm hữu hạn một thành viên viễn thông quốc tế fpt,1,0,0,1,0,0,0,TNHH
+KH-0407,công ty cổ phần công nghệ thông tin nam á,0,1,0,0,0,0,0,Cổ phần
+KH-0408,công ty cổ phần công nghệ thương mại dịch vụ vietstars,0,1,0,0,0,0,0,Cổ phần
+KH-0409,công ty cổ phần tư vấn và đầu tư xây dựng thái nguyên,0,1,0,0,0,0,0,Cổ phần
+KH-0410,công ty trách nhiệm hữu hạn thương mại dịch vụ và phát triển công nghệ toàn thắng,1,0,0,0,0,0,0,TNHH
+KH-0411,chi nhánh miền bắc công ty cổ phần hạ tầng viễn thông cmc,0,1,0,1,0,0,0,Cổ phần
+KH-0412,công ty cổ phần công nghệ giáo dục và truyền thông vectech,0,1,0,0,0,0,0,Cổ phần
+KH-0413,công ty cổ phần công nghệ bằng hữu,0,1,0,0,0,0,0,Cổ phần
+KH-0414,công ty cổ phần đầu tư capital house,0,1,0,0,0,0,0,Cổ phần
+KH-0415,công ty cổ phần dịch vụ và công nghệ miền bắc,0,1,0,0,0,0,0,Cổ phần
+KH-0416,công ty trách nhiệm hữu hạn thương mại tân an,1,0,0,0,0,0,0,TNHH
+KH-0417,công ty trách nhiệm hữu hạn mektec manufacturing (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0418,công ty trách nhiệm hữu hạn kỹ nghệ phúc anh,1,0,0,0,0,0,0,TNHH
+KH-0419,công ty cổ phần tecomen,0,1,0,0,0,0,0,Cổ phần
+KH-0420,công ty cổ phần rcee niras,0,1,0,0,0,0,0,Cổ phần
+KH-0421,công ty cổ phần tmc hà nội việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0422,công ty trách nhiệm hữu hạn jgc việt nam,1,0,0,0,0,0,0,TNHH
+KH-0423,công ty trách nhiệm hữu hạn tcg land,1,0,0,0,0,0,0,TNHH
+KH-0424,công ty cổ phần overseas fashions,0,1,0,0,0,0,0,Cổ phần
+KH-0425,công ty trách nhiệm hữu hạn trung tâm gia công hà nội việt nam poscovnpc,1,0,0,0,0,0,0,TNHH
+KH-0426,công ty trách nhiệm hữu hạn liên kết công nghệ,1,0,0,0,0,0,0,TNHH
+KH-0427,chi nhánh công ty trách nhiệm hữu hạn comin việt nam,1,0,0,1,0,0,0,TNHH
+KH-0428,công ty trách nhiệm hữu hạn hệ thống công nghiệp việt nam,1,0,0,0,0,0,0,TNHH
+KH-0429,công ty trách nhiệm hữu hạn hellobyte,1,0,0,0,0,0,0,TNHH
+KH-0430,công ty cổ phần thương mại kỹ thuật tam thành phát,0,1,0,0,0,0,0,Cổ phần
+KH-0431,văn phòng đại diện new world fashion group tại hồ chí minh,0,0,0,0,1,0,0,VPĐD
+KH-0432,công ty cổ phần đầu tư q&t,0,1,0,0,0,0,0,Cổ phần
+KH-0433,công ty trách nhiệm hữu hạn chunghwa telecom việt nam,1,0,0,0,0,0,0,TNHH
+KH-0434,công ty trách nhiệm hữu hạn comin việt nam,1,0,0,0,0,0,0,TNHH
+KH-0435,công ty cổ phần công nghệ thông tin địa lý ek,0,1,0,0,0,0,0,Cổ phần
+KH-0436,công ty cổ phần thức ăn chăn nuôi thái dương,0,1,0,0,0,0,0,Cổ phần
+KH-0437,công ty trách nhiệm hữu hạn thương mại và công nghệ việt,1,0,0,0,0,0,0,TNHH
+KH-0438,công ty trách nhiệm hữu hạn dịch vụ tiện ích quốc tế ocs,1,0,0,0,0,0,0,TNHH
+KH-0439,trung tâm thử nghiệm khí thải phương tiện giao thông cơ giới đường bộ,0,0,0,0,0,0,1,Khác
+KH-0440,công ty trách nhiệm hữu hạn viễn thông và công nghệ cao thái sơn,1,0,0,0,0,0,0,TNHH
+KH-0441,công ty trách nhiệm hữu hạn thương mại và sản xuất hoàng mai,1,0,0,0,0,0,0,TNHH
+KH-0442,công ty cổ phần thương mại hồng hà,0,1,0,0,0,0,0,Cổ phần
+KH-0443,trung tâm thông tin dữ liệu điện tử tỉnh thừa thiên huế,0,0,0,0,0,0,1,Khác
+KH-0444,công ty trách nhiệm hữu hạn dịch vụ công nghệ thông tin toàn cầu,1,0,0,0,0,0,0,TNHH
+KH-0445,công ty trách nhiệm hữu hạn hansol electronics việt nam,1,0,0,0,0,0,0,TNHH
+KH-0446,công ty trách nhiệm hữu hạn netcab,1,0,0,0,0,0,0,TNHH
+KH-0447,công ty cổ phần vicostone,0,1,0,0,0,0,0,Cổ phần
+KH-0448,công ty trách nhiệm hữu hạn sxtm hành mỹ,1,0,0,0,0,0,0,TNHH
+KH-0449,công ty trách nhiệm hữu hạn manpower việt nam,1,0,0,0,0,0,0,TNHH
+KH-0450,chi nhánh công ty liên doanh trách nhiệm hữu hạn nippon express (việt nam) tại hà nội,1,0,0,1,0,0,0,TNHH
+KH-0451,công ty cổ phần điện toán viễn thông viettelco,0,1,0,0,0,0,0,Cổ phần
+KH-0452,công ty cổ phần kỹ thuật sigma,0,1,0,0,0,0,0,Cổ phần
+KH-0453,công ty cổ phần đầu tư và phát triển kỹ thuật năng lượng vec,0,1,0,0,0,0,0,Cổ phần
+KH-0454,công ty cổ phần giải pháp công nghệ savis việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0455,công ty cổ phần vận tải & dịch vụ petrolimex nghệ tĩnh,0,1,0,0,0,0,0,Cổ phần
+KH-0456,công ty trách nhiệm hữu hạn may mặc excel việt nam,1,0,0,0,0,0,0,TNHH
+KH-0457,công ty cổ phần tập đoàn phượng hoàng xanh a&a,0,1,0,0,0,0,0,Cổ phần
+KH-0458,trường quốc tế đa cấp anh việt hoàng gia (bvis royal),0,0,0,0,0,0,1,Khác
+KH-0459,công ty trách nhiệm hữu hạn du lịch mạo hiểm xuyên á,1,0,0,0,0,0,0,TNHH
+KH-0460,công ty trách nhiệm hữu hạn thiết bị khoa học công nghệ mới,1,0,0,0,0,0,0,TNHH
+KH-0461,công ty cổ phần máy tính nhật mỹ,0,1,0,0,0,0,0,Cổ phần
+KH-0462,dự án phát triển hệ thống thông tin quản lý ngành lâm nghiệp tại việt namgiai đoạn 2 (formis ii),0,0,0,0,0,0,1,Khác
+KH-0463,công ty trách nhiệm hữu hạn fruit of the loom việt nam,1,0,0,0,0,0,0,TNHH
+KH-0464,công ty trách nhiệm hữu hạn tin học viễn thông nhất tiến chung,1,0,0,0,0,0,0,TNHH
+KH-0465,công ty cổ phần phần mềm thăng long,0,1,0,0,0,0,0,Cổ phần
+KH-0466,công ty trách nhiệm hữu hạn jfd việt nam,1,0,0,0,0,0,0,TNHH
+KH-0467,trung tâm ứng dụng công nghệ thông tin xúc tiến thương mại,0,0,0,0,0,0,1,Khác
+KH-0468,công ty trách nhiệm hữu hạn công nghiệp oriental sports việt nam,1,0,0,0,0,0,0,TNHH
+KH-0469,công ty trách nhiệm hữu hạn activesemi việt nam,1,0,0,0,0,0,0,TNHH
+KH-0470,công ty cổ phần dịch vụ công nghệ sao bắc đẩu,0,1,0,0,0,0,0,Cổ phần
+KH-0471,công ty cổ phần sss việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0472,công ty trách nhiệm hữu hạn sự lựa chọn vàng,1,0,0,0,0,0,0,TNHH
+KH-0473,công ty cổ phần thương mại dịch vụ tin học tín thành,0,1,0,0,0,0,0,Cổ phần
+KH-0474,công ty trách nhiệm hữu hạn yen of london,1,0,0,0,0,0,0,TNHH
+KH-0475,công ty trách nhiệm hữu hạn sugiko việt nam,1,0,0,0,0,0,0,TNHH
+KH-0476,chi nhánh công ty trách nhiệm hữu hạn phần mềm fpt tại đà nẵng,1,0,0,1,0,0,0,TNHH
+KH-0477,công ty cổ phần giải pháp công nghệ fanxipan việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0478,chi nhánh công ty trách nhiệm hữu hạn shoei việt nam tại bắc ninh,1,0,0,1,0,0,0,TNHH
+KH-0479,công ty trách nhiệm hữu hạn terumo việt nam,1,0,0,0,0,0,0,TNHH
+KH-0480,công ty trách nhiệm hữu hạn công nghệ ắc quy heng li (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0481,công ty trách nhiệm hữu hạn vsip bắc ninh,1,0,0,0,0,0,0,TNHH
+KH-0482,công ty cổ phần hà yến,0,1,0,0,0,0,0,Cổ phần
+KH-0483,công ty cổ phần trò chơi hiker,0,1,0,0,0,0,0,Cổ phần
+KH-0484,văn phòng dự án tổ chức traffic international tại việt nam,0,0,0,0,0,0,1,Khác
+KH-0485,công ty cổ phần nhân lực quốc tế hri,0,1,0,0,0,0,0,Cổ phần
+KH-0486,cục xúc tiến thương mại,0,0,0,0,0,0,1,Khác
+KH-0487,công ty cổ phần hanacans,0,1,0,0,0,0,0,Cổ phần
+KH-0488,qes (asia pacific) sdn bhd,0,0,0,0,0,0,1,Khác
+KH-0489,công ty trách nhiệm hữu hạn puretech việt nam,1,0,0,0,0,0,0,TNHH
+KH-0490,công ty trách nhiệm hữu hạn một thành viên cao su dầu tiếng,1,0,0,0,0,0,0,TNHH
+KH-0491,công ty trách nhiệm hữu hạn pasona tech việt nam,1,0,0,0,0,0,0,TNHH
+KH-0492,công ty trách nhiệm hữu hạn công nghiệp chi nhánht,1,0,0,1,0,0,0,TNHH
+KH-0493,công ty trách nhiệm hữu hạn honda lock việt nam,1,0,0,0,0,0,0,TNHH
+KH-0494,công ty trách nhiệm hữu hạn sungnam knitting mills,1,0,0,0,0,0,0,TNHH
+KH-0495,công ty trách nhiệm hữu hạn dain leaders việt nam,1,0,0,0,0,0,0,TNHH
+KH-0496,công ty cổ phần dịch vụ hàng không sân bay tân sơn nhất,0,1,0,0,0,0,0,Cổ phần
+KH-0497,công ty cổ phần careerbuilder,0,1,0,0,0,0,0,Cổ phần
+KH-0498,ngân hàng citibank na chi nhánh thành phố hồ chí minh,0,0,0,1,0,0,0,Chi nhánh
+KH-0499,công ty trách nhiệm hữu hạn điện tử tin học it,1,0,0,0,0,0,0,TNHH
+KH-0500,công ty trách nhiệm hữu hạn nhà nước một thành viên khai thác công trình thủy lợi phú thọ,1,0,0,0,0,0,0,TNHH
+KH-0501,công ty trách nhiệm hữu hạn vật tư khoa học kỹ thuật đông dương,1,0,0,0,0,0,0,TNHH
+KH-0502,công ty trách nhiệm hữu hạn thương mại dịch vụ kỹ thuật gpl,1,0,0,0,0,0,0,TNHH
+KH-0503,văn phòng tỉnh ủy lào cai,0,0,0,0,0,0,1,Khác
+KH-0504,công ty trách nhiệm hữu hạn công nghệ tin học cổ phần,1,1,0,0,0,0,0,TNHH
+KH-0505,công ty trách nhiệm hữu hạn nozomi,1,0,0,0,0,0,0,TNHH
+KH-0506,công ty trách nhiệm hữu hạn sài gòn stec,1,0,0,0,0,0,0,TNHH
+KH-0507,công ty trách nhiệm hữu hạn nippon paint việt nam (hà nội),1,0,0,0,0,0,0,TNHH
+KH-0508,công ty cổ phần licogi13 nền móng xây dựng,0,1,0,0,0,0,0,Cổ phần
+KH-0509,công ty trách nhiệm hữu hạn emtech việt nam,1,0,0,0,0,0,0,TNHH
+KH-0510,công ty trách nhiệm hữu hạn một thành viên thương mại dịch vụ dầu khí đông hưng,1,0,0,0,0,0,0,TNHH
+KH-0511,công ty cổ phần thực phẩm richy miền bắc,0,1,0,0,0,0,0,Cổ phần
+KH-0512,công ty trách nhiệm hữu hạn công nghệ niềm tin,1,0,0,0,0,0,0,TNHH
+KH-0513,công ty cổ phần giày đại lộc,0,1,0,0,0,0,0,Cổ phần
+KH-0514,công ty trách nhiệm hữu hạn hitachi plant technologies ( việt nam),1,0,0,0,0,0,0,TNHH
+KH-0515,công ty cổ phần tư vấn đầu tư và dịch vụ nông nghiệp việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0516,công ty trách nhiệm hữu hạn sd global việt nam,1,0,0,0,0,0,0,TNHH
+KH-0517,công ty trách nhiệm hữu hạn takahata precision việt nam,1,0,0,0,0,0,0,TNHH
+KH-0518,công ty cổ phần sản xuất hàng thể thao,0,1,0,0,0,0,0,Cổ phần
+KH-0519,công ty trách nhiệm hữu hạn scandinavian design việt nam,1,0,0,0,0,0,0,TNHH
+KH-0520,công ty trách nhiệm hữu hạn công nghiệp vĩnh tường miền bắc việt nam,1,0,0,0,0,0,0,TNHH
+KH-0521,công ty trách nhiệm hữu hạn giải pháp dg,1,0,0,0,0,0,0,TNHH
+KH-0522,công ty cổ phần sxkd xnk bình thạnh,0,1,0,0,0,0,0,Cổ phần
+KH-0523,công ty jfe engineering corporation – ntc thcv thi công & ht các hm lq đến gt “cổ phần2: nm xử lý nước thải”,0,1,0,0,0,0,0,Cổ phần
+KH-0524,công ty cổ phần đầu tư bất động sản saigontel,0,1,0,0,0,0,0,Cổ phần
+KH-0525,công ty cổ phần phát triển đô thị quốc tế việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0526,công ty trách nhiệm hữu hạn dệt và nhuộm hưng yên,1,0,0,0,0,0,0,TNHH
+KH-0527,trung tâm đào tạo và nâng cao năng lực phụ nữ,0,0,0,0,0,0,1,Khác
+KH-0528,công ty cổ phần công nghệ ocg,0,1,0,0,0,0,0,Cổ phần
+KH-0529,công ty cổ phần nhiệt điện vũng áng ii (vapco),0,1,0,0,0,0,0,Cổ phần
+KH-0530,công ty trách nhiệm hữu hạn tm&dv vĩnh cường,1,0,0,0,0,0,0,TNHH
+KH-0531,công ty cổ phần thương mại và công nghệ hà việt,0,1,0,0,0,0,0,Cổ phần
+KH-0532,cong ty trách nhiệm hữu hạn michelle,1,0,0,0,0,0,0,TNHH
+KH-0533,công ty trách nhiệm hữu hạn mt hojgaard việt nam,1,0,0,0,0,0,0,TNHH
+KH-0534,công ty trách nhiệm hữu hạn technova,1,0,0,0,0,0,0,TNHH
+KH-0535,công ty cổ phần dịch vụ kỹ thuật mobifone,0,1,0,0,0,0,0,Cổ phần
+KH-0536,công ty cổ phần xây dựng và thương mại phú quang hưng,0,1,0,0,0,0,0,Cổ phần
+KH-0537,công ty trách nhiệm hữu hạn khu công nghiệp thăng long vĩnh phúc,1,0,0,0,0,0,0,TNHH
+KH-0538,công ty cổ phần thiết bị và phát triển công nghệ trọng điểm,0,1,0,0,0,0,0,Cổ phần
+KH-0539,công ty trách nhiệm hữu hạn business consultants việt nam,1,0,0,0,0,0,0,TNHH
+KH-0540,công ty cổ phần innotek,0,1,0,0,0,0,0,Cổ phần
+KH-0541,công ty cổ phần fps việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0542,công ty trách nhiệm hữu hạn tư vấn và đầu tư tiên phong quốc tế việt nam,1,0,0,0,0,0,0,TNHH
+KH-0543,công ty trách nhiệm hữu hạn ens foam,1,0,0,0,0,0,0,TNHH
+KH-0544,công ty trách nhiệm hữu hạn inspectorio việt nam,1,0,0,0,0,0,0,TNHH
+KH-0545,chi nhánh công ty cổ phần foody tại hà nội,0,1,0,1,0,0,0,Cổ phần
+KH-0546,công ty trách nhiệm hữu hạn công nghệ thông tin vạn lộc,1,0,0,0,0,0,0,TNHH
+KH-0547,chi nhánh thành phố hồ chí minh công ty cổ phần vinatex quốc tế,0,1,0,1,0,0,0,Cổ phần
+KH-0548,công ty trách nhiệm hữu hạn truyền thông và quảng cáo thành nam,1,0,0,0,0,0,0,TNHH
+KH-0549,công ty trách nhiệm hữu hạn vân long,1,0,0,0,0,0,0,TNHH
+KH-0550,công ty trách nhiệm hữu hạn tư vấn couture việt nam,1,0,0,0,0,0,0,TNHH
+KH-0551,công ty cổ phần nước giải khát sanest khánh hòa,0,1,0,0,0,0,0,Cổ phần
+KH-0552,công ty cổ phần đại đồng tiến,0,1,0,0,0,0,0,Cổ phần
+KH-0553,công ty cổ phần truyền thông và công nghệ a1,0,1,0,0,0,0,0,Cổ phần
+KH-0554,công ty trách nhiệm hữu hạn khu công nghiệp thăng long,1,0,0,0,0,0,0,TNHH
+KH-0555,công ty trách nhiệm hữu hạn kỹ thuật và thương mại việt á,1,0,0,0,0,0,0,TNHH
+KH-0556,công ty cổ phần công nghệ tam phú,0,1,0,0,0,0,0,Cổ phần
+KH-0557,công ty trách nhiệm hữu hạn tư vấn quản lý mcg,1,0,0,0,0,0,0,TNHH
+KH-0558,công ty cổ phần đầu tư và công nghệ hc toàn cầu,0,1,0,0,0,0,0,Cổ phần
+KH-0559,công ty cổ phần đầu tư và phát triển hưng phát,0,1,0,0,0,0,0,Cổ phần
+KH-0560,công ty trách nhiệm hữu hạn thakral one,1,0,0,0,0,0,0,TNHH
+KH-0561,công ty trách nhiệm hữu hạn phần mềm cadcam,1,0,0,0,0,0,0,TNHH
+KH-0562,chi nhánh công ty trách nhiệm hữu hạn nhà nước một thành viên thương mại và xnk vietteltrung tâm phân phối,1,0,0,1,0,0,0,TNHH
+KH-0563,công ty trách nhiệm hữu hạn el dorado việt nam,1,0,0,0,0,0,0,TNHH
+KH-0564,công ty trách nhiệm hữu hạn phần mềm tin học điện tử tích hợp,1,0,0,0,0,0,0,TNHH
+KH-0565,công ty cổ phần thế giới số trần anh,0,1,0,0,0,0,0,Cổ phần
+KH-0566,công ty cổ phần quảng cáo mai cát tường,0,1,0,0,0,0,0,Cổ phần
+KH-0567,công ty trách nhiệm hữu hạn một thành viên dịch vụ du lịch vit hạ long,1,0,0,0,0,0,0,TNHH
+KH-0568,công ty trách nhiệm hữu hạn phân phối snb,1,0,0,0,0,0,0,TNHH
+KH-0569,chi nhánh công ty trách nhiệm hữu hạn yen of london,1,0,0,1,0,0,0,TNHH
+KH-0570,công ty trách nhiệm hữu hạn bx bunka việt nam,1,0,0,0,0,0,0,TNHH
+KH-0571,công ty trách nhiệm hữu hạn thiết bị kỹ thuật tuấn thịnh,1,0,0,0,0,0,0,TNHH
+KH-0572,công ty trách nhiệm hữu hạn chi nhánhc vina,1,0,0,1,0,0,0,TNHH
+KH-0573,công ty trách nhiệm hữu hạn goertek vina,1,0,0,0,0,0,0,TNHH
+KH-0574,công ty trách nhiệm hữu hạn wellbe việt nam,1,0,0,0,0,0,0,TNHH
+KH-0575,công ty trách nhiệm hữu hạn yoon il việt nam,1,0,0,0,0,0,0,TNHH
+KH-0576,trung tâm tư vấn thiết kế và xây dựng,0,0,0,0,0,0,1,Khác
+KH-0577,viện khoa học và kỹ thuật hạt nhân,0,0,0,0,0,0,1,Khác
+KH-0578,công ty cổ phần tập đoàn thành công,0,1,0,0,0,0,0,Cổ phần
+KH-0579,công ty trách nhiệm hữu hạn việt nam toyo denso,1,0,0,0,0,0,0,TNHH
+KH-0580,công ty trách nhiệm hữu hạn thương mại trần hồng quân,1,0,0,0,0,0,0,TNHH
+KH-0581,công ty cổ phần korihome việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0582,ngân hàng nông nghiệp và phát triển nông thôn việt nam chi nhánh huyện xuân lộc đồng nai,0,0,0,1,0,0,0,Chi nhánh
+KH-0583,công ty trách nhiệm hữu hạn mazars việt nam,1,0,0,0,0,0,0,TNHH
+KH-0584,công ty cổ phần sản xuất kinh doanh dược và trang thiết bị y tế việt mỹ,0,1,0,0,0,0,0,Cổ phần
+KH-0585,công ty trách nhiệm hữu hạn đầu tư thương mại dung hòa,1,0,0,0,0,0,0,TNHH
+KH-0586,công ty trách nhiệm hữu hạn thương mại dịch vụ phát triển hải trung,1,0,0,0,0,0,0,TNHH
+KH-0587,công ty cổ phần jivc,0,1,0,0,0,0,0,Cổ phần
+KH-0588,công ty cổ phần thương mại và đầu tư công nghệ anh em,0,1,0,0,0,0,0,Cổ phần
+KH-0589,công ty trách nhiệm hữu hạn uti vina,1,0,0,0,0,0,0,TNHH
+KH-0590,trường thpt nguyễn văn linh,0,0,0,0,0,0,1,Khác
+KH-0591,chi nhánh thành phố hồ chí minh – công ty trách nhiệm hữu hạn hashima việt nam,1,0,0,1,0,0,0,TNHH
+KH-0592,công ty cổ phần hạ tầng đông á,0,1,0,0,0,0,0,Cổ phần
+KH-0593,công ty trách nhiệm hữu hạn hệ thống thông tin fpt,1,0,0,0,0,0,0,TNHH
+KH-0594,công ty cổ phần giải pháp công nghệ và truyền thông victory việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0595,cowell co ltd,0,0,0,0,0,0,1,Khác
+KH-0596,công ty trách nhiệm hữu hạn hwata việt nam,1,0,0,0,0,0,0,TNHH
+KH-0597,công ty trách nhiệm hữu hạn youngjin hi tech vina,1,0,0,0,0,0,0,TNHH
+KH-0598,công ty phần mềm vnpt chi nhánh tổng công ty dịch vụ viễn thông,0,0,0,1,0,0,0,Chi nhánh
+KH-0599,công ty trách nhiệm hữu hạn thương mại và dịch vụ thông thiên,1,0,0,0,0,0,0,TNHH
+KH-0600,công ty trách nhiệm hữu hạn thương mại công nghệ minh thắng,1,0,0,0,0,0,0,TNHH
+KH-0601,công ty trách nhiệm hữu hạn may nien hsing việt nam,1,0,0,0,0,0,0,TNHH
+KH-0602,trường thpt việt mỹ anh,0,0,0,0,0,0,1,Khác
+KH-0603,công ty trách nhiệm hữu hạn thương mại dịch vụ an đạt thịnh,1,0,0,0,0,0,0,TNHH
+KH-0604,công ty trách nhiệm hữu hạn một thành viên ứng dụng công nghệ và dịch vụ truyền thông âu lạc,1,0,0,0,0,0,0,TNHH
+KH-0605,công ty cổ phần văn hóa tân bình,0,1,0,0,0,0,0,Cổ phần
+KH-0606,công ty trách nhiệm hữu hạn thương mại & dịch vụ ttk,1,0,0,0,0,0,0,TNHH
+KH-0607,công ty cổ phần thủy sản cà mau,0,1,0,0,0,0,0,Cổ phần
+KH-0608,công ty cổ phần đầu tư xây dựng bất động sản lanmak,0,1,0,0,0,0,0,Cổ phần
+KH-0609,công ty trách nhiệm hữu hạn phát triển công nghệ và thương mại gia long,1,0,0,0,0,0,0,TNHH
+KH-0610,công ty cố phần dịch vụ máy tính kỷ nguyên,0,0,0,0,0,0,1,Khác
+KH-0611,công ty cổ phần thực phẩm richy miền nam,0,1,0,0,0,0,0,Cổ phần
+KH-0612,công ty trách nhiệm hữu hạn thương mại tin học công nghệ zonotek,1,0,0,0,0,0,0,TNHH
+KH-0613,công ty cổ phần đt và ptchi nhánh quốc gia adg,0,1,0,1,0,0,0,Cổ phần
+KH-0614,công ty trách nhiệm hữu hạn thương mại và dịch vụ tin học ht việt nam,1,0,0,0,0,0,0,TNHH
+KH-0615,công ty trách nhiệm hữu hạn yokowo việt nam,1,0,0,0,0,0,0,TNHH
+KH-0616,công ty cổ phần vận tải bình an hà tiên,0,1,0,0,0,0,0,Cổ phần
+KH-0617,công ty cổ phần máy tính hà nội,0,1,0,0,0,0,0,Cổ phần
+KH-0618,công ty trách nhiệm hữu hạn gts hải đăng,1,0,0,0,0,0,0,TNHH
+KH-0619,công ty trách nhiệm hữu hạn doosun việt nam,1,0,0,0,0,0,0,TNHH
+KH-0620,công ty trách nhiệm hữu hạn việt nam tokai,1,0,0,0,0,0,0,TNHH
+KH-0621,công ty năng lượng mekong,0,0,0,0,0,0,1,Khác
+KH-0622,công ty trách nhiệm hữu hạn thương mại kỹ thuật song lợi,1,0,0,0,0,0,0,TNHH
+KH-0623,công ty cổ phần bền,0,1,0,0,0,0,0,Cổ phần
+KH-0624,công ty trách nhiệm hữu hạn bags connection vina,1,0,0,0,0,0,0,TNHH
+KH-0625,công ty trách nhiệm hữu hạn yudo việt nam,1,0,0,0,0,0,0,TNHH
+KH-0626,công ty cổ phần nstech việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0627,công ty trách nhiệm hữu hạn thương mại và dịch vụ trâm quỳnh,1,0,0,0,0,0,0,TNHH
+KH-0628,công ty trách nhiệm hữu hạn một thành viên thương mại dịch vụ tin học mạnh tú,1,0,0,0,0,0,0,TNHH
+KH-0629,công ty trách nhiệm hữu hạn giải pháp và dịch vụ cao cấp,1,0,0,0,0,0,0,TNHH
+KH-0630,công ty trách nhiệm hữu hạn thương mại long mỹ,1,0,0,0,0,0,0,TNHH
+KH-0631,công ty trách nhiệm hữu hạn công nghệ xây dựng đại phong,1,0,0,0,0,0,0,TNHH
+KH-0632,công ty trách nhiệm hữu hạn mhi aerospace việt nam,1,0,0,0,0,0,0,TNHH
+KH-0633,công ty trách nhiệm hữu hạn fresco foods,1,0,0,0,0,0,0,TNHH
+KH-0634,công ty vtc dịch vụ truyền hình số,0,0,0,0,0,0,1,Khác
+KH-0635,công ty kurihara việt nam,0,0,0,0,0,0,1,Khác
+KH-0636,công ty trách nhiệm hữu hạn kỹ thuật changhong (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0637,công ty trách nhiệm hữu hạn một thành viên đóng tàu hạ long,1,0,0,0,0,0,0,TNHH
+KH-0638,công ty cổ phần delta cropcare,0,1,0,0,0,0,0,Cổ phần
+KH-0639,cửa hàng công liên,0,0,0,0,0,1,0,Hộ KD/Cửa hàng
+KH-0640,công ty m&c electronics vina,0,0,0,0,0,0,1,Khác
+KH-0641,công ty trách nhiệm hữu hạn 1 tv dịch vụ thương mại phúc hoàng,1,0,0,0,0,0,0,TNHH
+KH-0642,công ty trách nhiệm hữu hạn quảng cáo bmc,1,0,0,0,0,0,0,TNHH
+KH-0643,công ty trách nhiệm hữu hạn quản lý ca,1,0,0,0,0,0,0,TNHH
+KH-0644,công ty cổ phần thiết kế và trang trí nội thất norah,0,1,0,0,0,0,0,Cổ phần
+KH-0645,công ty cổ phần cơ kim khí việt mỹ,0,1,0,0,0,0,0,Cổ phần
+KH-0646,công ty trách nhiệm hữu hạn nikken international asia,1,0,0,0,0,0,0,TNHH
+KH-0647,công ty trách nhiệm hữu hạn brotex (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0648,công ty trách nhiệm hữu hạn lockon việt nam,1,0,0,0,0,0,0,TNHH
+KH-0649,vpđd thường trú hiệp hội các phòng thương mại & công nghiệp đức (dihk) tại việt nam,0,0,0,0,0,0,1,Khác
+KH-0650,công ty trách nhiệm hữu hạn kishin việt nam,1,0,0,0,0,0,0,TNHH
+KH-0651,công ty trách nhiệm hữu hạn công nghệ kinh doanh quốc tế,1,0,0,0,0,0,0,TNHH
+KH-0652,công ty trách nhiệm hữu hạn cowell châu á,1,0,0,0,0,0,0,TNHH
+KH-0653,công ty cổ phần bluecom việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0654,công ty cổ phần tân cảng bến thành,0,1,0,0,0,0,0,Cổ phần
+KH-0655,công ty trách nhiệm hữu hạn nishio rent all việt nam,1,0,0,0,0,0,0,TNHH
+KH-0656,công ty trách nhiệm hữu hạn tân hồng hà,1,0,0,0,0,0,0,TNHH
+KH-0657,công ty trách nhiệm hữu hạn ns techvina,1,0,0,0,0,0,0,TNHH
+KH-0658,công ty cổ phần tư vấn xây dựng điện 4,0,1,0,0,0,0,0,Cổ phần
+KH-0659,vpđd tt hiệp hội các phòng thương mại & công nghiệp đức (dihk) tại thành phố hồ chí minh,0,0,0,0,0,0,1,Khác
+KH-0660,công ty trách nhiệm hữu hạn mizuho precision việt nam,1,0,0,0,0,0,0,TNHH
+KH-0661,trung tâm tư vấn xây dựng công nghiệp và hạ tầng,0,0,0,0,0,0,1,Khác
+KH-0662,công ty trách nhiệm hữu hạn maxpeed hà nội,1,0,0,0,0,0,0,TNHH
+KH-0663,đài phát thanh truyền hình hải dương,0,0,0,0,0,0,1,Khác
+KH-0664,công ty trách nhiệm hữu hạn richard moore associates,1,0,0,0,0,0,0,TNHH
+KH-0665,công ty trách nhiệm hữu hạn giấy kraft vina,1,0,0,0,0,0,0,TNHH
+KH-0666,công ty trách nhiệm hữu hạn wurth việt nam,1,0,0,0,0,0,0,TNHH
+KH-0667,công ty cổ phần dịch vụ kỹ thuật viễn thông,0,1,0,0,0,0,0,Cổ phần
+KH-0668,công ty trách nhiệm hữu hạn kotiti việt nam,1,0,0,0,0,0,0,TNHH
+KH-0669,công ty cổ phần đầu tư kỹ thuật berjaya gia thịnh,0,1,0,0,0,0,0,Cổ phần
+KH-0670,công ty trách nhiệm hữu hạn properwell việt nam,1,0,0,0,0,0,0,TNHH
+KH-0671,trung tâm phòng chống hiv/aids tỉnh kiên giang,0,0,0,0,0,0,1,Khác
+KH-0672,công ty trách nhiệm hữu hạn nippon paint vĩnh phúc,1,0,0,0,0,0,0,TNHH
+KH-0673,công ty trách nhiệm hữu hạn tư vấn đầu tư & xây dựng ae,1,0,0,0,0,0,0,TNHH
+KH-0674,công ty trách nhiệm hữu hạn gensoft vina,1,0,0,0,0,0,0,TNHH
+KH-0675,công ty trách nhiệm hữu hạn thương mại và xây lắp hà nguyên,1,0,0,0,0,0,0,TNHH
+KH-0676,công ty trách nhiệm hữu hạn dịch vụ bảo dưỡng máy bay cảng hàng không miền nam,1,0,0,0,0,0,0,TNHH
+KH-0677,văn phòng đại diện công ty vietnam holding asset management ltd tại thành phố hồ chí minh,0,0,0,0,1,0,0,VPĐD
+KH-0678,công ty cổ phần phát triển nhà g homes,0,1,0,0,0,0,0,Cổ phần
+KH-0679,công ty trách nhiệm hữu hạn ogilvyone việt nam,1,0,0,0,0,0,0,TNHH
+KH-0680,công ty trách nhiệm hữu hạn vận chuyển k line (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0681,công ty trách nhiệm hữu hạn đông a,1,0,0,0,0,0,0,TNHH
+KH-0682,công ty cổ phần đầu tư xây dựng và thương mại tiến minh,0,1,0,0,0,0,0,Cổ phần
+KH-0683,công ty cổ phần thương mại phân phối các sản phẩm điện tử tin học,0,1,0,0,0,0,0,Cổ phần
+KH-0684,chi nhánh công ty trách nhiệm hữu hạn thương mại trần hồng quân tòa tháp khách sạn,1,0,0,1,0,0,0,TNHH
+KH-0685,công ty cổ phần thương mại & phát triển công nghệ hưng thiện,0,1,0,0,0,0,0,Cổ phần
+KH-0686,công ty trách nhiệm hữu hạn võ trọng nghĩa,1,0,0,0,0,0,0,TNHH
+KH-0687,công ty cổ phần idc đông dương,0,1,0,0,0,0,0,Cổ phần
+KH-0688,công ty cổ phần thể thao ngôi sao geru,0,1,0,0,0,0,0,Cổ phần
+KH-0689,công ty trách nhiệm hữu hạn hansol chi nhánhp vina,1,0,0,1,0,0,0,TNHH
+KH-0690,công ty cổ phần công nghệ elite,0,1,0,0,0,0,0,Cổ phần
+KH-0691,công ty trách nhiệm hữu hạn willer việt nam,1,0,0,0,0,0,0,TNHH
+KH-0692,trung tâm truyền thông truyền hình công thương,0,0,0,0,0,0,1,Khác
+KH-0693,công ty trách nhiệm hữu hạn tin học và thương mại chân chính,1,0,0,0,0,0,0,TNHH
+KH-0694,công ty trách nhiệm hữu hạn julie sandlau việt nam,1,0,0,0,0,0,0,TNHH
+KH-0695,công ty trách nhiệm hữu hạn máy tính long nguyễn,1,0,0,0,0,0,0,TNHH
+KH-0696,công ty trách nhiệm hữu hạn thương mại sản xuất đồ dùng gia đình việt nam,1,0,0,0,0,0,0,TNHH
+KH-0697,công ty trách nhiệm hữu hạn nhất nhất,1,0,0,0,0,0,0,TNHH
+KH-0698,công ty trách nhiệm hữu hạn hồng vận,1,0,0,0,0,0,0,TNHH
+KH-0699,công ty mua bán điện,0,0,0,0,0,0,1,Khác
+KH-0700,công ty trách nhiệm hữu hạn viễn tín vinh,1,0,0,0,0,0,0,TNHH
+KH-0701,công ty trách nhiệm hữu hạn si flex việt nam,1,0,0,0,0,0,0,TNHH
+KH-0702,công ty cổ phần xnk và đầu tư thừa thiên huế,0,1,0,0,0,0,0,Cổ phần
+KH-0703,công ty cổ phần lúa vàng,0,1,0,0,0,0,0,Cổ phần
+KH-0704,công ty cổ phần bao bì và in nông nghiệp,0,1,0,0,0,0,0,Cổ phần
+KH-0705,công ty cổ phần gió nhẹ miền nam,0,1,0,0,0,0,0,Cổ phần
+KH-0706,công ty trách nhiệm hữu hạn yusen logistics (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0707,công ty cổ phần coresoft,0,1,0,0,0,0,0,Cổ phần
+KH-0708,ecodit llc – dự án trường sơn xanh do usaid tài trợ,0,0,0,0,0,0,1,Khác
+KH-0709,công ty trách nhiệm hữu hạn điện lạnh miền tây,1,0,0,0,0,0,0,TNHH
+KH-0710,công ty trách nhiệm hữu hạn bip systems việt nam,1,0,0,0,0,0,0,TNHH
+KH-0711,công ty cổ phần phần mềm citigo,0,1,0,0,0,0,0,Cổ phần
+KH-0712,công ty trách nhiệm hữu hạn seec việt nam,1,0,0,0,0,0,0,TNHH
+KH-0713,công ty cổ phần xi măng hệ dưỡng,0,1,0,0,0,0,0,Cổ phần
+KH-0714,công ty trách nhiệm hữu hạn một thành viên công nghệ phúc sơn,1,0,0,0,0,0,0,TNHH
+KH-0715,công ty trách nhiệm hữu hạn yamato logistics việt nam chi nhánh thành phố hồ chí minh,1,0,0,1,0,0,0,TNHH
+KH-0716,chi nhánh thủ đức công ty cổ phần ipl,0,1,0,1,0,0,0,Cổ phần
+KH-0717,công ty trách nhiệm hữu hạn thế giới kim cương,1,0,0,0,0,0,0,TNHH
+KH-0718,công ty cổ phần fujiwindows,0,1,0,0,0,0,0,Cổ phần
+KH-0719,công ty trách nhiệm hữu hạn nhóm mây,1,0,0,0,0,0,0,TNHH
+KH-0720,công ty trách nhiệm hữu hạn dịch vụ và thương mại thái trí,1,0,0,0,0,0,0,TNHH
+KH-0721,công ty trách nhiệm hữu hạn esprinta (việt nam),1,0,0,0,0,0,0,TNHH
+KH-0722,công ty trách nhiệm hữu hạn nessco việt nam,1,0,0,0,0,0,0,TNHH
+KH-0723,công ty trách nhiệm hữu hạn công nghệ kiến hân,1,0,0,0,0,0,0,TNHH
+KH-0724,công ty trách nhiệm hữu hạn hsiehs biotech,1,0,0,0,0,0,0,TNHH
+KH-0725,công ty trách nhiệm hữu hạn olmix asialand việt nam,1,0,0,0,0,0,0,TNHH
+KH-0726,công ty cổ phần tích hợp hệ thống nam trường sơn,0,1,0,0,0,0,0,Cổ phần
+KH-0727,công ty trách nhiệm hữu hạn yakjin intertex,1,0,0,0,0,0,0,TNHH
+KH-0728,công ty trách nhiệm hữu hạn đào tạo và tích hợp công nghệ eteck,1,0,0,0,0,0,0,TNHH
+KH-0729,công ty trách nhiệm hữu hạn tm dv kỹ thuật viễn thông toàn cầu,1,0,0,0,0,0,0,TNHH
+KH-0730,công ty trách nhiệm hữu hạn 1c việt nam,1,0,0,0,0,0,0,TNHH
+KH-0731,công ty cổ phần đầu tư và công nghệ việt tiến,0,1,0,0,0,0,0,Cổ phần
+KH-0732,công ty cổ phần carbon việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0733,công ty trách nhiệm hữu hạn một thành viên may mặc việt pacific,1,0,0,0,0,0,0,TNHH
+KH-0734,công ty trách nhiệm hữu hạn sl international,1,0,0,0,0,0,0,TNHH
+KH-0735,công ty cổ phần kỹ thuật và thương mại htg,0,1,0,0,0,0,0,Cổ phần
+KH-0736,công ty trách nhiệm hữu hạn một thành viên imlink việt nam,1,0,0,0,0,0,0,TNHH
+KH-0737,công ty cổ phần dược phẩm pha no,0,1,0,0,0,0,0,Cổ phần
+KH-0738,công ty trách nhiệm hữu hạn anh tin,1,0,0,0,0,0,0,TNHH
+KH-0739,văn phòng đại diện panpacific coltd tại thành phố hồ chí minh,0,0,0,0,1,0,0,VPĐD
+KH-0740,công ty trách nhiệm hữu hạn một thành viên đầu tư dha,1,0,0,0,0,0,0,TNHH
+KH-0741,công ty trách nhiệm hữu hạn tư vấn innovature,1,0,0,0,0,0,0,TNHH
+KH-0742,công ty trách nhiệm hữu hạn điện tử tt,1,0,0,0,0,0,0,TNHH
+KH-0743,trung tâm điều độ hệ thống điện miền trung,0,0,0,0,0,0,1,Khác
+KH-0744,công ty cổ phần đường quảng ngãi,0,1,0,0,0,0,0,Cổ phần
+KH-0745,công ty trách nhiệm hữu hạn công nghệ polaris đà nẵng,1,0,0,0,0,0,0,TNHH
+KH-0746,công ty taisei nb tc gói thầu cổ phần1a ptr csht chính của da pt csht kchi nhánh cao hòa lạc tại thành phốhn,0,1,0,1,0,0,0,Cổ phần
+KH-0747,công ty cổ phần đầu tư và công nghệ idochi nhánhet,0,1,0,1,0,0,0,Cổ phần
+KH-0748,công ty trách nhiệm hữu hạn tích hợp hệ thống cmc,1,0,0,0,0,0,0,TNHH
+KH-0749,công ty cổ phần karofi việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0750,công ty cổ phần thương mại và xây dựng công nghệ xanh,0,1,0,0,0,0,0,Cổ phần
+KH-0751,công ty cổ phần điện lực trung sơn,0,1,0,0,0,0,0,Cổ phần
+KH-0752,công ty trách nhiệm hữu hạn một thành viên đầu tư và thương mại the garden,1,0,0,0,0,0,0,TNHH
+KH-0753,công ty trách nhiệm hữu hạn quốc tế liên doanh vinaconextaisei (vinata),1,0,0,0,0,0,0,TNHH
+KH-0754,công ty cổ phần odin việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0755,công ty trách nhiệm hữu hạn không gian mới,1,0,0,0,0,0,0,TNHH
+KH-0756,công ty cổ phần mĩ thuật và truyền thông,0,1,0,0,0,0,0,Cổ phần
+KH-0757,công ty cổ phần máy tính sài gòn,0,1,0,0,0,0,0,Cổ phần
+KH-0758,công ty trách nhiệm hữu hạn westfield việt nam,1,0,0,0,0,0,0,TNHH
+KH-0759,công ty trách nhiệm hữu hạn nam of london,1,0,0,0,0,0,0,TNHH
+KH-0760,văn phòng đại diện new world fashion group tại hải phòng,0,0,0,0,1,0,0,VPĐD
+KH-0761,công ty quốc tế trách nhiệm hữu hạn đông tài việt nam,1,0,0,0,0,0,0,TNHH
+KH-0762,công ty trách nhiệm hữu hạn dimension data việt nam,1,0,0,0,0,0,0,TNHH
+KH-0763,công ty trách nhiệm hữu hạn du lịch nghỉ dưỡng sinh thái mai châu,1,0,0,0,0,0,0,TNHH
+KH-0764,công ty trách nhiệm hữu hạn matsuo industries việt nam,1,0,0,0,0,0,0,TNHH
+KH-0765,công ty trách nhiệm hữu hạn heyum vina,1,0,0,0,0,0,0,TNHH
+KH-0766,công ty trách nhiệm hữu hạn kỹ thuật và thương mại kt,1,0,0,0,0,0,0,TNHH
+KH-0767,công ty trách nhiệm hữu hạn yokohama tyre việt nam,1,0,0,0,0,0,0,TNHH
+KH-0768,công ty trách nhiệm hữu hạn tiếp vận thăng long – chi nhánh hưng yên,1,0,0,1,0,0,0,TNHH
+KH-0769,công ty trách nhiệm hữu hạn miền á đông,1,0,0,0,0,0,0,TNHH
+KH-0770,công ty trách nhiệm hữu hạn tích hợp hệ thống itech,1,0,0,0,0,0,0,TNHH
+KH-0771,công ty trách nhiệm hữu hạn ứng dụng hệ thống thịnh vượng,1,0,0,0,0,0,0,TNHH
+KH-0772,chi nhánh công ty trách nhiệm hữu hạn tiếp vận thăng long tại hải phòng,1,0,0,0,0,0,0,TNHH
+KH-0773,công ty trách nhiệm hữu hạn elitecom vina,1,0,0,0,0,0,0,TNHH
+KH-0774,công ty cổ phần thông tin tín dụng việt nam,0,1,0,0,0,0,0,Cổ phần
+KH-0775,công ty cổ phần năng lượng vĩnh tân 3,0,1,0,0,0,0,0,Cổ phần
+KH-0776,công ty trách nhiệm hữu hạn nano hightech việt nam,1,0,0,0,0,0,0,TNHH
+KH-0777,công ty cổ phần thiết bị tân phát,0,1,0,0,0,0,0,Cổ phần
+KH-0778,công ty trách nhiệm hữu hạn công nghiệp hà yến sgn,1,0,0,0,0,0,0,TNHH
+KH-0779,công ty cổ phần soya garden,0,1,0,0,0,0,0,Cổ phần
+KH-0780,công ty trách nhiệm hữu hạn ngôi nhà sáng tạo,1,0,0,0,0,0,0,TNHH
+KH-0781,công ty trách nhiệm hữu hạn thương mại dịch vụ việt ý,1,0,0,0,0,0,0,TNHH
+KH-0782,công ty cổ phần tin học lạc việt,0,1,0,0,0,0,0,Cổ phần
+KH-0783,chi nhánh công ty trách nhiệm hữu hạn dịch vụ tin học fpt tại miền trung,1,0,0,1,0,0,0,TNHH
+KH-0784,công ty trách nhiệm hữu hạn luna nexus vn inc,1,0,0,0,0,0,0,TNHH
+KH-0785,công ty trách nhiệm hữu hạn vnexus capital advisors,1,0,0,0,0,0,0,TNHH
+KH-0786,công ty cổ phần dịch vụ hàng hoá hàng không việt nam,0,1,0,0,0,0,0,Cổ phần
